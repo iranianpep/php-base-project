@@ -1,5 +1,5 @@
 # PHP Base Project
-A PHP starter kit with composer
+A PHP starter project with composer and compatible with packagist.
 
 [![Latest Stable Version](https://poser.pugx.org/php-base-project/php-base-project/v/stable)](https://packagist.org/packages/php-base-project/php-base-project)
 [![Build Status](https://travis-ci.org/iranianpep/php-base-project.svg?branch=master)](https://travis-ci.org/iranianpep/php-base-project)
