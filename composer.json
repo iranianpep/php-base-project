@@ -4,7 +4,7 @@
   "homepage": "https://github.com/iranianpep/php-base-project",
   "license": "MIT",
   "authors": [
-    { "name": "PhpBaseProject Author Name", "email": "PhpBaseProject Author Email" }
+    { "name": "PhpBaseProject Author Name", "email": "PhpBaseProject@PhpBaseProject.com" }
   ],
   "require": {
     "php": ">=7",

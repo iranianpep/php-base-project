@@ -6,10 +6,10 @@ use PHPUnit\Framework\TestCase;
 
 class GreetingTest extends TestCase
 {
-    public function testHi()
+    public function testHello()
     {
         $greeting = new Greeting();
 
-        $this->assertEquals('hi', $greeting->hi());
+        $this->assertEquals('hi', $greeting->hello());
     }
 }
