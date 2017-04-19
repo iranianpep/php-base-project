@@ -1,2 +1,2 @@
 # PHP Base Project
-A PHP starter kit
+A PHP starter kit with composer
