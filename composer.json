@@ -1,10 +1,10 @@
 {
   "name": "php-base-project/php-base-project",
-  "description": "PhpBaseProject description",
+  "description": "A packagist ready package to start a new PHP 7 project including Composer, PHPUnit, Travis, CodeClimate and StyleCI.",
   "homepage": "https://github.com/iranianpep/php-base-project",
   "license": "MIT",
   "authors": [
-    { "name": "PhpBaseProject Author Name", "email": "PhpBaseProject@PhpBaseProject.com" }
+    { "name": "Ehsan Abbasi", "email": "ehsan.abb@gmail.com" }
   ],
   "require": {
     "php": ">=7",
