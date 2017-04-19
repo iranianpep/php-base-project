@@ -1,12 +1,12 @@
 # PHP Base Project
 A PHP starter kit with composer
 
-[![Latest Stable Version](https://poser.pugx.org/slackbot/slackbot/v/stable)](https://packagist.org/packages/php-base-project/php-base-project)
+[![Latest Stable Version](https://poser.pugx.org/php-base-project/php-base-project/v/stable)](https://packagist.org/packages/php-base-project/php-base-project)
 [![Build Status](https://travis-ci.org/iranianpep/php-base-project.svg?branch=master)](https://travis-ci.org/iranianpep/php-base-project)
 [![Code Climate](https://codeclimate.com/github/iranianpep/php-base-project/badges/gpa.svg)](https://codeclimate.com/github/iranianpep/php-base-project)
 [![Test Coverage](https://codeclimate.com/github/iranianpep/php-base-project/badges/coverage.svg)](https://codeclimate.com/github/iranianpep/php-base-project/coverage)
 [![Issue Count](https://codeclimate.com/github/iranianpep/php-base-project/badges/issue_count.svg)](https://codeclimate.com/github/iranianpep/php-base-project)
 [![License](https://poser.pugx.org/php-base-project/php-base-project/license)](https://packagist.org/packages/php-base-project/php-base-project)
 [![StyleCI](https://styleci.io/repos/88731011/shield?branch=master)](https://styleci.io/repos/88731011)
-[![Packagist](https://img.shields.io/packagist/dt/slackbot/slackbot.svg)](https://packagist.org/packages/php-base-project/php-base-project)
+[![Packagist](https://img.shields.io/packagist/dt/php-base-project/php-base-project.svg)](https://packagist.org/packages/php-base-project/php-base-project)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iranianpep/php-base-project/master/LICENSE)
