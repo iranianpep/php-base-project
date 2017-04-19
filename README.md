@@ -8,5 +8,6 @@ A packagist ready package to start a new PHP 7 project including Composer, PHPUn
 [![Issue Count](https://codeclimate.com/github/iranianpep/php-base-project/badges/issue_count.svg)](https://codeclimate.com/github/iranianpep/php-base-project)
 [![License](https://poser.pugx.org/php-base-project/php-base-project/license)](https://packagist.org/packages/php-base-project/php-base-project)
 [![StyleCI](https://styleci.io/repos/88731011/shield?branch=master)](https://styleci.io/repos/88731011)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f6798ce3c00e4de083d89f289b6c9285)](https://www.codacy.com/app/iranianpep/php-base-project?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=iranianpep/php-base-project&amp;utm_campaign=Badge_Grade)
 [![Packagist](https://img.shields.io/packagist/dt/php-base-project/php-base-project.svg)](https://packagist.org/packages/php-base-project/php-base-project)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iranianpep/php-base-project/master/LICENSE)
