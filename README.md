@@ -3,8 +3,11 @@ A packagist ready package to start a new PHP 7 project including Composer, PHPUn
 
 [![Latest Stable Version](https://poser.pugx.org/php-base-project/php-base-project/v/stable)](https://packagist.org/packages/php-base-project/php-base-project)
 [![Build Status](https://travis-ci.org/iranianpep/php-base-project.svg?branch=master)](https://travis-ci.org/iranianpep/php-base-project)
+[![Build Status](https://scrutinizer-ci.com/g/iranianpep/php-base-project/badges/build.png?b=master)](https://scrutinizer-ci.com/g/iranianpep/php-base-project/build-status/master)
 [![Code Climate](https://codeclimate.com/github/iranianpep/php-base-project/badges/gpa.svg)](https://codeclimate.com/github/iranianpep/php-base-project)
 [![Test Coverage](https://codeclimate.com/github/iranianpep/php-base-project/badges/coverage.svg)](https://codeclimate.com/github/iranianpep/php-base-project/coverage)
+[![Code Coverage](https://scrutinizer-ci.com/g/iranianpep/php-base-project/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/iranianpep/php-base-project/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/iranianpep/php-base-project/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/iranianpep/php-base-project/?branch=master)
 [![Issue Count](https://codeclimate.com/github/iranianpep/php-base-project/badges/issue_count.svg)](https://codeclimate.com/github/iranianpep/php-base-project)
 [![License](https://poser.pugx.org/php-base-project/php-base-project/license)](https://packagist.org/packages/php-base-project/php-base-project)
 [![StyleCI](https://styleci.io/repos/88731011/shield?branch=master)](https://styleci.io/repos/88731011)
