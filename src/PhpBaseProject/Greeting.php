@@ -4,7 +4,7 @@ namespace PhpBaseProject;
 
 class Greeting
 {
-    public function hello()
+    public function hello(): string
     {
         return 'hi';
     }

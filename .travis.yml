@@ -1,9 +1,14 @@
+env:
+  global:
+    - CC_TEST_REPORTER_ID=cbb4ed82659da46058cffee3f587565a1615c9df7259b445b8b4229c520b1e7c
+
 language: php
 
 matrix:
   include:
   - php: 7.0
   - php: 7.1
+  - php: 7.2
 
 sudo: false
 
@@ -14,7 +19,13 @@ addons:
 install:
     - composer install
 
-script: vendor/bin/phpunit --coverage-clover build/logs/clover.xml --configuration phpunit.xml
+before_script:
+  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+  - chmod +x ./cc-test-reporter
+  - ./cc-test-reporter before-build
 
-after_success:
-- vendor/bin/test-reporter
+script:
+  - vendor/bin/phpunit --coverage-clover build/logs/clover.xml --configuration phpunit.xml
+
+after_script:
+  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT

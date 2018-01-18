@@ -15,6 +15,10 @@ engines:
     config:
       languages:
         php:
+    sonar-php:
+      enabled: true
 ratings:
    paths:
    - "src/**/*"
+exclude_paths:
+  - "**/vendor/**/*"
