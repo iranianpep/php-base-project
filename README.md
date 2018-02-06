@@ -24,3 +24,8 @@ A Composer ready package to start a new PHP 7 project including Composer, PHPUni
 composer require php-base-project/php-base-project
 ```
 - Find and replace all `php-base-project`, `PHP Base Project` and `PhpBaseProject` with your project root, name and namespace respectively.
+- Create an account on Travis, Scrutinizer and Code Climate and allow access to your repository
+- Update `composer.json` with the relevant information to your project
+- Update `.travis.yml` with your repository token from Code Climate
+- Update readme file with the right path to the badges
+- Update author name in the license
