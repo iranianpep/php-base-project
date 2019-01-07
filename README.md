@@ -21,7 +21,7 @@ A Composer ready package to start a new PHP 7 project including Composer, PHPUni
 ## Usage
 -  First install this template:
 ```
-composer require php-base-project/php-base-project
+composer create-project php-base-project/php-base-project
 ```
 - Find and replace all `php-base-project`, `PHP Base Project` and `PhpBaseProject` with your project root, name and namespace respectively.
 - Create an account on Travis, Scrutinizer and Code Climate and allow access to your repository
