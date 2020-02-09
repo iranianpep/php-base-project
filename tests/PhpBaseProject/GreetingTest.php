@@ -6,7 +6,7 @@ use PHPUnit\Framework\TestCase;
 
 class GreetingTest extends TestCase
 {
-    public function testHello()
+    public function testHello(): void
     {
         $greeting = new Greeting();
 
