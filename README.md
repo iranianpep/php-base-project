@@ -16,7 +16,7 @@ A Composer ready package to start a new PHP 7 project including Composer, PHPUni
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iranianpep/php-base-project/master/LICENSE)
 
 ## Server Requirements
-- PHP >= 7.0.0
+- PHP >= 7.4
 
 ## Usage
 -  First install this template:
